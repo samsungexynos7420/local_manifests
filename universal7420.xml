@@ -15,7 +15,7 @@
 	
     <!-- Hardware -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-18.1" />
-    <project path="device/samsung_slsi" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-18.1" />
+    <project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-18.1" />
 
     <!-- SLSI Exynos BSP -->
     <project path="hardware/samsung_slsi-linaro/exynos" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos" remote="github" revision="lineage-18.1" />
