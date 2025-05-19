@@ -1,5 +1,5 @@
 # LineageOS 18.1 local_manifests
-Lineage OS 18.1 manifest for Samsung S6, S6 edge and Note 5
+Lineage OS 18.1 manifest for Samsung S6, S6 edge, S6 edge+ and Note 5
 
 Steps to build
 1. Clone Lineage 18.1 repo and setup your build environment according to the lineage documentation
@@ -12,8 +12,9 @@ Steps to build
 
 Replace codename with the device you are trying to build. Valid codenames:
 
-- zerofltexx : for the FLAT version of the S6 (G920)
-- zeroltexx: for the EDGE version of the S6 (G925)
+- zeroflte : for the FLAT version of the S6 (G920)
+- zerolte: for the STANDARD EDGE version of the S6 (G925)
+- zenlte: for the EDGE PLUS version of the S6 (G928)
 - noblelte: for the Note 5 International (N920)
   
 Replace core count with the number of CPU cores you have.
