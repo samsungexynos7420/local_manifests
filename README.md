@@ -18,3 +18,9 @@ Replace codename with the device you are trying to build. Valid codenames:
 - noblelte: for the Note 5 (N920)
   
 Replace core count with the number of CPU cores you have.
+
+## Supported Devices:  
+- G920 F/S/K/I/L/W8/T
+- G925 F/S/K/I/L/W8/T
+- G928 F/S/K/C/I/L/G/W8/T
+- N920 C/S/K/I/L/W8/T
