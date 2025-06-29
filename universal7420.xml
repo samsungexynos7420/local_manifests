@@ -2,17 +2,17 @@
 
 <manifest>
     <!--Device Trees-->
-    <project path="device/samsung/universal7420-common" name="samsungexynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
-    <project path="device/samsung/zerofltexx" name="samsungexynos7420/android_device_samsung_zerofltexx" remote="github" revision="lineage-19.1-new" />
-    <project path="device/samsung/zeroltexx" name="samsungexynos7420/android_device_samsung_zeroltexx" remote="github" revision="lineage-19.1-new" />
-    <project path="device/samsung/noblelte" name="samsungexynos7420/android_device_samsung_noblelte" remote="github" revision="lineage-19.1-new" />
-    <!--project path="device/samsung/zenlte" name="samsungexynos7420/android_device_samsung_zenlte" remote="github" revision="lineage-19.1-new" /-->
+    <project path="device/samsung/universal7420-common" name="samsungexynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1-unify" />
+    <project path="device/samsung/zerofltexx" name="samsungexynos7420/android_device_samsung_zerofltexx" remote="github" revision="lineage-19.1-unify" />
+    <project path="device/samsung/zeroltexx" name="samsungexynos7420/android_device_samsung_zeroltexx" remote="github" revision="lineage-19.1-unify" />
+    <project path="device/samsung/noblelte" name="samsungexynos7420/android_device_samsung_noblelte" remote="github" revision="lineage-19.1-unify" />
+    <project path="device/samsung/zenlte" name="samsungexynos7420/android_device_samsung_zenlte" remote="github" revision="lineage-19.1-unify" />
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1-new" />
+    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1-bpf-v2" />
 
     <!-- Vendor folders -->
-    <project path="vendor/samsung" name="samsungexynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-19.1-update" />
+    <project path="vendor/samsung" name="samsungexynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-19.1-unify" />
 	
     <!-- Hardware -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-19.1" />
