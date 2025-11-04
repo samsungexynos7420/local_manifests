@@ -9,7 +9,7 @@
     <project path="device/samsung/zenlte" name="samsungexynos7420/android_device_samsung_zenlte" remote="github" revision="lineage-20.0-unify"/>
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-20-unify-clang-2" />
+    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-20.0-unify-clang-2" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung" name="samsungexynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-20.0-unify" />
