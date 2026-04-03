@@ -9,19 +9,19 @@
     <project path="device/samsung/zenlte" name="samsungexynos7420/android_device_samsung_zenlte" remote="github" revision="lineage-19.1-unify" />
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1-unify-clang" />
+    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1" />
 
     <!-- Vendor folders -->
-    <project path="vendor/samsung" name="samsungexynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-19.1-unify" />
+    <project path="vendor/samsung" name="samsungexynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-19.1" />
 	
     <!-- Hardware -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-19.1" />
     <project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-19.1" />
 
     <!-- SLSI Exynos BSP -->
-    <project path="hardware/samsung_slsi-linaro/exynos" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos" remote="github" revision="lineage-19.1-unify-2" />
+    <project path="hardware/samsung_slsi-linaro/exynos" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi-linaro/exynos5" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_exynos5" remote="github" revision="lineage-19.1" />
-    <project path="hardware/samsung_slsi-linaro/openmax" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_openmax" remote="github" revision="lineage-19.1-unify" />
-    <project path="hardware/samsung_slsi-linaro/graphics" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_graphics" remote="github" revision="lineage-19.1-unify" />
-    <project path="hardware/samsung_slsi-linaro/config" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_config" remote="github" revision="lineage-19.1-unify" />
+    <project path="hardware/samsung_slsi-linaro/openmax" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_openmax" remote="github" revision="lineage-19.1" />
+    <project path="hardware/samsung_slsi-linaro/graphics" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_graphics" remote="github" revision="lineage-19.1" />
+    <project path="hardware/samsung_slsi-linaro/config" name="samsungexynos7420/android_hardware_samsung_slsi-linaro_config" remote="github" revision="lineage-19.1" />
 </manifest>
