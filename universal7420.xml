@@ -2,11 +2,11 @@
 
 <manifest>
     <!--Device Trees-->
-    <project path="device/samsung/universal7420-common" name="samsungexynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1-unify" />
-    <project path="device/samsung/zeroflte" name="samsungexynos7420/android_device_samsung_zeroflte" remote="github" revision="lineage-19.1-unify" />
-    <project path="device/samsung/zerolte" name="samsungexynos7420/android_device_samsung_zerolte" remote="github" revision="lineage-19.1-unify" />
-    <project path="device/samsung/noblelte" name="samsungexynos7420/android_device_samsung_noblelte" remote="github" revision="lineage-19.1-unify" />
-    <project path="device/samsung/zenlte" name="samsungexynos7420/android_device_samsung_zenlte" remote="github" revision="lineage-19.1-unify" />
+    <project path="device/samsung/universal7420-common" name="samsungexynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
+    <project path="device/samsung/zeroflte" name="samsungexynos7420/android_device_samsung_zeroflte" remote="github" revision="lineage-19.1" />
+    <project path="device/samsung/zerolte" name="samsungexynos7420/android_device_samsung_zerolte" remote="github" revision="lineage-19.1" />
+    <project path="device/samsung/noblelte" name="samsungexynos7420/android_device_samsung_noblelte" remote="github" revision="lineage-19.1" />
+    <project path="device/samsung/zenlte" name="samsungexynos7420/android_device_samsung_zenlte" remote="github" revision="lineage-19.1" />
 
     <!--Kernel-->
     <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1" />
